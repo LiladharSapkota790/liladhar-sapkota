@@ -17,7 +17,7 @@ const About = () => {
                 <img 
                   src="/lovable-uploads/b42ac345-5b9a-4787-9c82-0058910a33ee.png" 
                   alt="Day in the Life" 
-                  className="w-40 h-40 object-cover rounded-lg shadow-lg border-4 border-white"
+                  className="w-64 h-64 object-cover rounded-lg shadow-lg border-4 border-white"
                 />
                 <div className="absolute -bottom-2 -right-2 bg-white rounded-lg p-1 shadow">
                   <p className="text-xs font-medium text-tech-dark">A day at work</p>
