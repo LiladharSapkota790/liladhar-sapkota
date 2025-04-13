@@ -12,14 +12,7 @@ const About = () => {
         
         <div className="grid md:grid-cols-2 gap-10 items-center">
           <div className="relative">
-            <div className="bg-gradient-to-tr from-tech-blue/20 to-sky-100 rounded-2xl p-6 relative z-10">
-              <img 
-                src="/lovable-uploads/5df4bafb-af33-455e-a0fd-007cc1a0c384.png" 
-                alt="Network Infrastructure Diagram" 
-                className="rounded-lg shadow-lg"
-              />
-            </div>
-            <div className="absolute top-0 right-0 transform translate-x-4 -translate-y-4">
+                        <div className="absolute top-0 right-0 transform translate-x-4 -translate-y-4">
               <div className="relative">
                 <img 
                   src="/lovable-uploads/b42ac345-5b9a-4787-9c82-0058910a33ee.png" 
