@@ -36,7 +36,7 @@ const Header = () => {
     >
       <div className="container-custom flex items-center justify-between">
         <a href="#" className="text-2xl font-bold text-tech-blue">
-          Liladhar<span className="text-tech-dark">Sapkota</span>
+          Liladhar<span className="text-tech-dark"> Sapkota</span>
         </a>
 
         {/* Desktop Navigation */}
